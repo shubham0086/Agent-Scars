@@ -175,14 +175,16 @@ npm run demo:guard
 This is the **memory + consistency** proof from the autonomy ladder:
 
 ```
-AI-systems-evolution   ← see rung 03 (Agent) and rung 02 (Memory)
+AI-systems-evolution   ← start here (rung 03: agent, rung 02: memory)
     |
-    └─► Agent-Anatomy  ← the Memory organ in isolation
+    └─► agentic-patterns  ← Pattern 03 (reality-first memory) + Pattern 07 (anti-drift)
             |
-            └─► Agent-Scars  ← THIS REPO (the production memory engine)
+            └─► Agent-Scars  ← THIS REPO (the production failure memory engine)
 ```
 
-For the full orchestration stack that uses SCAR in production: see **agentkernel**.
+For the full orchestration stack that uses SCAR in production: see [agentkernel](https://github.com/shubham0086/agentkernel).
+
+**Theory companions:** [Pattern 03: Reality-First Memory](https://github.com/shubham0086/agentic-patterns/blob/main/docs/03-reality-first-memory.md) · [Pattern 07: Anti-Drift](https://github.com/shubham0086/agentic-patterns/blob/main/docs/07-anti-drift.md)
 
 ---
 
