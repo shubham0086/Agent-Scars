@@ -1,10 +1,14 @@
 # Agent-Scars
 
+> **IMPORTANT**: This repository contains real, production-ready, battle-tested code extracted directly from active commercial systems (like Agency OS or Founder Growth OS), rather than simplified mock learning artifacts.
+>
+> For project walkthroughs, architecture flowcharts, and system context, visit the live landing page: [shubham0086.github.io/MyPortfolio.github.io/projects/agent-scars.html](https://shubham0086.github.io/MyPortfolio.github.io/projects/agent-scars.html)
+
 **An agent that remembers its own failures so it never makes the same mistake twice.**
 
 AI agents get stuck in loops: same error, same response, same failure, repeat. Agent-Scars breaks that cycle by tracking failures and injecting a guard block into the prompt on the next turn, forcing the agent to acknowledge and fix the error instead of repeating it.
 
-This is the **memory + consistency** claim made runnable. Extracted from 18 months of production Agency OS.
+This is the failure memory and consistency engine, extracted from 18 months of production Agency OS.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Node 18+](https://img.shields.io/badge/Node-18%2B-brightgreen.svg)](package.json)
